@@ -1,0 +1,11 @@
+YACO INTERIORS & CONTRACTOR — WEBSITE (version 19 - matching call tiles, named social icons, second phone number)
+
+1. Unzip the download (right-click > Extract All).
+2. Open the folder "YACO-Interiors-Website".
+3. Double-click  index.html  -> opens in Chrome / Edge.
+
+Keep everything together in that one folder. Full structure is explained in README.md.
+
+  index.html        Home
+  pages/            Projects (+4 project pages), Services, Process, Commercial, About, Contact
+  assets/           css, js, fonts, images (brand logo, projects, commercial...), videos
